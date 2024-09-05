@@ -14,7 +14,7 @@ To use this database you must install the require packages in your terminal by i
 
 ## Usage
 
-GitHub Repository: 
+GitHub Repository: https://github.com/Gunther0662/GDP-Database
 
 ## Credits
 
@@ -22,7 +22,7 @@ N/A
 
 ## Lincense
 
-N/A
+MIT License was assign to this repository
 
 ## Badges
 
